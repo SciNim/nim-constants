@@ -6,6 +6,7 @@ Mathematical numerical named static constants useful for different disciplines
 - **Know a constant thats missing?, send Pull Request !!!**
 
 Links to Wikipedia and The OnLine Enciclopedia of Integer Sequences provided.
+
 Run `nim doc constants.nim` for Documentation.
 
 
