@@ -3,7 +3,7 @@
 Mathematical numerical named static constants useful for different disciplines
 (math, physics, chemistry, biology, engineering, data science, IT, hobby, etc).
 
-- **Know a constant thats missing?, send Pull Request !!!**
+- [**Know a constant thats missing?, send Pull Request !!!**](https://github.com/juancarlospaco/nim-constants/pulls)
 
 Links to Wikipedia and The OnLine Enciclopedia of Integer Sequences provided.
 
