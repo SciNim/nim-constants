@@ -5,12 +5,13 @@ Mathematical numerical named static constants useful for different disciplines
 
 - [**Know a constant thats missing?, send Pull Request !!!**](https://github.com/juancarlospaco/nim-constants/pulls)
 
-Links to Wikipedia and The OnLine Enciclopedia of Integer Sequences provided.
+Links to [Wikipedia](http://wikipedia.org) and [The OnLine Enciclopedia of Integer Sequences](http://oeis.org) provided.
 
 Run `nim doc constants.nim` for Documentation.
 
 
 ### Sources
+
 - http://wikipedia.org/wiki/List_of_mathematical_constants
 - http://wikipedia.org/wiki/Astronomical_constant#Table_of_astronomical_constants
 - http://wikipedia.org/wiki/Physical_constant#Table_of_physical_constants
